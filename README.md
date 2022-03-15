@@ -1,0 +1,2 @@
+# Robot-Localization-with-Python-and-Particle-Filters
+When a UGV, drone, or any other robot is sent to an unknown place, its terrain is always unknown and undulating. But using a very ingenious method called Particle Filters, makes the whole process of localizing the terrain and understanding its elevation and depression quite simple. It conveniently incorporates Artificial Intelligence to remember the terrain which the robot traveled upon. Using python, I worked in conjunction with the Coursera instructor and developed this method in this project.
