@@ -5,3 +5,11 @@ Using these particles, any robot in that space can navigate with the chances of 
 Mathematically, we can use probability of noise occurence in the form of normal Gaussian distribution ans the noise in this case represents the standard deviation against the displacement that is provided through user input
 More the number of particle filters, more accurate will the controllability of the robot be.
 This can be used in all types of robots, including droids that are sent to other planets that interact with unknown exosystems and map their terrain. Pretty useful!
+
+Guide for the project:
+
+Link to the file which controls the particle filters: [Click here](https://github.com/IronAvenger11-prog/Robot-Localization-with-Python-and-Particle-Filters/blob/main/demo-checkpoint.ipynb)
+
+Link for the terrain map: [Click here](https://github.com/IronAvenger11-prog/Robot-Localization-with-Python-and-Particle-Filters/blob/main/map.png)
+
+![Velocity Rover](https://mars.nasa.gov/layout/mars2020/images/PIA23764-RoverNamePlateonMars-web.jpg)
