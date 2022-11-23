@@ -13,3 +13,5 @@ Link to the file which controls the particle filters: [Click here](https://githu
 Link for the terrain map: [Click here](https://github.com/IronAvenger11-prog/Robot-Localization-with-Python-and-Particle-Filters/blob/main/map.png)
 
 ![Velocity Rover](https://mars.nasa.gov/layout/mars2020/images/PIA23764-RoverNamePlateonMars-web.jpg)
+
+![Terrain map](https://www.wolfram.com/language/gallery/make-a-3d-image-from-an-elevation-map/img/make-a-3d-image-from-an-elevation-map-outputsample-1.png.en)
