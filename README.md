@@ -1,7 +1,7 @@
-Robot Localization with Python and Particle Filters
+# Robot Localization with Python and Particle Filters
 When a UGV, drone, or any other robot is sent to an unknown place, its terrain is always unknown and undulating. But using a very ingenious method called Particle Filters, makes the whole process of localizing the terrain and understanding its elevation and depression quite simple. It conveniently incorporates Artificial Intelligence to remember the terrain which the robot traveled upon.
 
-This project implements the Particle Filters method using Python in collaboration with a Coursera instructor. Particle Filters is a method which involves a physical map upon which numerous particles are scattered. Each particle has a certain weight value pertaining to the elevation of that point in the terrain.
+This project implements the Particle Filters method using Python. Particle Filters is a method which involves a physical map upon which numerous particles are scattered. Each particle has a certain weight value pertaining to the elevation of that point in the terrain.
 
 Using these particles, any robot in that space can navigate with the chances of occurrence of noise, which gets minimized by a larger number of particles. Mathematically, we can use the probability of noise occurrence in the form of a normal Gaussian distribution, where the noise represents the standard deviation against the displacement provided through user input.
 
