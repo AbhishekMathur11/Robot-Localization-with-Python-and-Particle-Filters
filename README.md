@@ -32,7 +32,7 @@ To get started with the project, follow the steps below:
 
 4. **Access the terrain map**:
    - To view the terrain map, click on the following link:
-     - [Terrain Map](https://example.com/terrain_map.png)
+     - [Terrain Map](https://github.com/IronAvenger11-prog/Robot-Localization-with-Python-and-Particle-Filters/blob/main/map.png)
 
 ## Additional Resources
 
