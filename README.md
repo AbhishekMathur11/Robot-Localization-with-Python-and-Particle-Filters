@@ -41,11 +41,8 @@ For a deeper understanding of Particle Filters and its implementation, you can r
 - [Particle Filters - Wikipedia](https://en.wikipedia.org/wiki/Particle_filter)
 - [Particle Filters Tutorial - Coursera](https://www.coursera.org/learn/robotics-perception)
 
-Feel free to explore and modify the project as per your requirements. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Happy localizing!
 
-![image](https://github.com/IronAvenger11-prog/Robot-Localization-with-Python-and-Particle-Filters/assets/85229612/d859075a-bce5-443a-9f28-8c36aacdd4e6)
 
-![image](https://github.com/IronAvenger11-prog/Robot-Localization-with-Python-and-Particle-Filters/assets/85229612/fa343fcd-fbf5-4d17-94d3-ecda4fbe0270)
 
 
 
