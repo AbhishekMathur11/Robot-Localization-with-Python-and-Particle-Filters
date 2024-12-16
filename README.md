@@ -2,6 +2,10 @@
 
 ## Implementation
 
+The system in action:
+
+![Alt text](images/lunar.gif)
+
 Initially the robot is initialized with the particles estimating just the location:
 
 Initialized particles
@@ -34,14 +38,10 @@ Final particle location
 
 
 
-The use case of this system is when a rover has to navigate on the moon, the upper rocket uses a camera to capture an overhead picture of the environment with a rough understanding of the start and end points. Along with this, the craters are tracked and stored as obstacles, with waypoints marked. The system tracks the robot location and pose using particle filters for onboard localization and better environmental understanding.
+The use case of this system is when a rover has to navigate on the moon, the upper rocket uses a camera to capture an overhead picture of the environment with a rough understanding of the start and end points. Along with this, the craters are tracked and stored as obstacles, with waypoints marked. The system tracks the robot location and pose using particle filters for onboard localization and better environmental understanding. 
 
 
-![Alt text](images/lunar.gif)
-
-
-A simulation of autonomous robot navigation on lunar terrain using particle filter localization. The simulation detects craters as obstacles from actual lunar surface imagery and demonstrates path planning with obstacle avoidance.
-Features
+## Features
 Real-time crater detection from lunar surface images using computer vision
 Particle filter-based robot localization
 Dynamic obstacle avoidance
